@@ -1,0 +1,6 @@
+react-ex/node_modules/*
+
+webpack/node_modules/*
+
+todo-app/backand/node_modules/*
+todo-app/frontend/node_modules/*
